@@ -1,0 +1,1 @@
+Trading.Core.Tests.UnitTest1.Test1
